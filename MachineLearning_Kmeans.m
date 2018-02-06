@@ -14,7 +14,7 @@
 
 % load data 
 data = zeros(100,2);
-data = load('data.txt');
+data = load('data_Kmeans.txt');
 x = data(:,1);
 y = data(:,2);
 
